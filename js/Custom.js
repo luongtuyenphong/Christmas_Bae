@@ -1,5 +1,5 @@
 var sound = new Howl({
-    urls: ['song/background.mp3'],
+    urls: ['song/giangsinh.mp3'],
     loop: true
   });
 
@@ -194,14 +194,11 @@ $(document).ready(function() {
                     
                     $(".message").typed({
                         strings: [
-                        "<<< Merry Christmas >>>",
-                        "Chúc Dung (biệt danh Diệp xinh đẹp cute :) ) có một mùa giáng sinh an lành và ấm áp bên người thân và bạn bè :) Nghe nhạc zui zẻ nha!!!",
+                        "Vợ iu hong ngoan",
+                        "Noel đến rồi🎄💕😘 Anh mong mọi điều tốt đẹp nhất sẽ đến với em bé ❤️❤️ Chúc bà xã cụa anh lúc nào cũng hạnh phúc,luôn nở nụ cười thật tươi và hạnh phúc vợ nhó um moah 😘 Anh sẽ mãi ở bên cạnh và ủng hộ mọi điều em làm 🥰 Anh yêu em rất nhìu ❤️😘   ",
                         ],
                         typeSpeed: 10,
                         startDelay: 200,
-                        backSpeed: 50,
-                        backDelay: 200,
-                        loop: true,
                         contentType: 'html',
                         showCursor: false
                     });
