@@ -1,5 +1,5 @@
 var sound = new Howl({
-    urls: ['song/giangsinh.mp3'],
+    urls: ['css/song/giangsinh.mp3'],
     loop: true
   });
 
@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "Vợ iu hong ngoan",
-                        "Noel đến rồi🎄💕😘 Anh mong mọi điều tốt đẹp nhất sẽ đến với em bé ❤️❤️ Chúc bà xã cụa anh lúc nào cũng hạnh phúc,luôn nở nụ cười thật tươi và hạnh phúc vợ nhó um moah 😘 Anh sẽ mãi ở bên cạnh và ủng hộ mọi điều em làm 🥰 Anh yêu em rất nhìu ❤️😘   ",
+                        "Noel đến rồi🎄💕😘 Anh mong mọi điều tốt đẹp nhất sẽ đến với em bé ❤️❤️ Chúc bà xã cụa anh lúc nào cũng hạnh phúc,luôn nở nụ cười thật tươi và hạnh phúc vợ nhó um moah 😘 Anh sẽ mãi ở bên cạnh và ủng hộ mọi điều em làm 🥰 Anh yêu em rất nhìu ❤️😘 Giáng sinh chẳng giống giáng sinh 🎶 Em không một mình 🎶  ",
                         ],
                         typeSpeed: 10,
                         startDelay: 200,
