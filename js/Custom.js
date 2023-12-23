@@ -19,7 +19,7 @@ function loadingVisible() {
 }
 
 /* Scroll Title Begin */
-var scrl = "Giáng sinh Phong❤️Điệp! ";
+var scrl = "Giáng sinh Phong❤️Điệp😘 ";
 function scrlsts() {
     scrl = scrl.substring(1, scrl.length) + scrl.substring(0, 1);
     document.title = scrl;
@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "Vợ iu hong ngoan",
-                        "Noel đến rồi🎄💕😘 Anh mong mọi điều tốt đẹp nhất sẽ đến với em bé ❤️❤️ Chúc bà xã cụa anh lúc nào cũng hạnh phúc,luôn nở nụ cười thật tươi và hạnh phúc vợ nhó um moah 😘 Anh sẽ mãi ở bên cạnh và ủng hộ mọi điều em làm 🥰 Anh yêu em rất nhìu ❤️😘 Giáng sinh chẳng giống giáng sinh 🎶 Em không một mình 🎶  ",
+                        "Noel đến rồi🎄💕😘 Anh mong mọi điều tốt đẹp nhất sẽ đến với em bé ❤️❤️ Chúc bà xã cụa anh lúc nào cũng hạnh phúc ,luôn nở nụ cười thật tươi và an nhiên bên anh vợ nhó um moah 😘 Anh sẽ mãi ở bên cạnh và ủng hộ mọi điều em làm 🥰 Anh yêu em rất nhìu ❤️😘 Giáng sinh chẳng giống giáng sinh 🎶    Em hông một mình 🎶😘  ",
                         ],
                         typeSpeed: 10,
                         startDelay: 200,
